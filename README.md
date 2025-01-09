@@ -2,7 +2,7 @@
 
 Installation Steps:
 
-git clone [<code>](https://github.com/saivardhan02340/Advanced-Task-1.git)
+git clone https://github.com/saivardhan02340/Advanced-Task-1.git
 
 Create a file:
 mkdir Testcode 
